@@ -1,0 +1,1 @@
+{ "BaseData": {"BaseTerminalSize" : 870 , "AmountOfCars" : 18 }, "QueueData": {"Queue" : 20 , "MinTerminalSize" : 100 , "MaxTerminalSize" : 1000 }}
